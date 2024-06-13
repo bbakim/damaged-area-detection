@@ -1,3 +1,5 @@
+THIS REPO IS STILL IN PROGRESS!!!
+
 To train model:
 Activate the relevant code cells, the comment line indicates where we defined the untrained model.
 
